@@ -1,0 +1,10 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  #map {
+    height: 100vh; /* Tinggi peta layar penuh */
+    width: 100%; /* Lebar peta */
+  }
